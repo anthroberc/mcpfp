@@ -39,5 +39,3 @@ This method allows you to bypass any potential rate limits or issues with userna
 ## Technical Details
 
 The website is built using HTML, CSS, and JavaScript. It utilizes the `<canvas>` element to draw and customize the Minecraft skins and backgrounds. Skin data is fetched from publicly available Minecraft skin services (e.g., Minotar API).
-
-`This is created and owned by Anthroberc. All rights reserved.`
